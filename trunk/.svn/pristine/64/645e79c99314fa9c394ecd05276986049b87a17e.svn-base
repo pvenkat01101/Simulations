@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--projectile-motion-strings_el.xml created Tue Sep 23 20:59:23 EEST 2014 using: projectile-motion 2.03.00 (52266), translation-utility 2.16.00 (74075) Ιουν 14, 2014--><SimStrings>
+<string key="dragLabel" value="συντελεστής αντίστασης"/>
+<string key="userChoice" value="επιλογή χρήστη"/>
+<string key="altitudeLabel" value="υψόμετρο"/>
+<string key="football" value="μπάλα ποδοσφαίρου"/>
+<string key="golfball" value="μπάλα γκολφ"/>
+<string key="simTitle" value="Κίνηση εκτοξευόμενων αντικειμένων"/>
+<string key="collision" value="Σύγκρουση"/>
+<string key="adultHuman" value="ενήλικος"/>
+<string key="time" value="χρόνος (s)"/>
+<string key="buick" value="αυτοκίνητο"/>
+<string key="diameter" value="διάμετρος (m)"/>
+<string key="initSpeed" value="αρχική ταχύτητα (m/s)"/>
+<string key="bowlingball" value="μπάλα μπόουλινγκ"/>
+<string key="piano" value="πιάνο"/>
+<string key="sound" value="Ήχος"/>
+<string key="range" value="απόσταση (m)"/>
+<string key="height" value="ύψος (m)"/>
+<string key="mass" value="μάζα (kg)"/>
+<string key="pumpkin" value="κολοκύθα"/>
+<string key="score" value="Συγχαρητήρια!"/>
+<string key="translation.credits" value="Θωμάς Κρεμιώτης, Physicist ΜSc"/>
+<string key="angle" value="γωνία (μοίρες)"/>
+<string key="baseball" value="μπάλα μπέιζμπολ"/>
+<string key="airResistance" value="Αντίσταση αέρα"/>
+<string key="fire" value="Εκτόξευση"/>
+<string key="erase" value="Διαγραφή"/>
+<string key="tankshell" value="οβίδα"/>
+</SimStrings>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--charges-and-fields-strings_pt_BR.xml created Mon Apr 06 19:35:39 BRT 2015 using: charges-and-fields 2.04.00 (52655), translation-utility 2.17.00 (74235) Dez 16, 2014--><SimStrings>
+<string key="directionOnly" value="Apenas direção"/>
+<string key="grid" value="grade"/>
+<string key="clearAll" value="Limpar"/>
+<string key="simTitle" value="Cargas e Campos"/>
+<string key="distanceUnit" value="m"/>
+<string key="showNumbers" value="Mostrar medidas"/>
+<string key="voltageUnit" value="V"/>
+<string key="oneMeter" value="1 metro"/>
+<string key="showEField" value="Ver C-EL"/>
+<string key="oneNanoC" value="1nC"/>
+<string key="showHiRes" value="Resolução maior"/>
+<string key="EFieldSensors" value="Sensores do C-EL"/>
+<string key="eFieldUnit" value="V/m"/>
+<string key="clear" value="ocultar"/>
+<string key="plot" value="mostrar"/>
+<string key="equipotential" value="equipotencial"/>
+<string key="angleUnit" value="º"/>
+<string key="translation.credits" value="Alexandre R. Soares"/>
+<string key="showLoRes" value="Resolução menor"/>
+<string key="moreSpeedLessRes" value="Rapidez x Qualidade"/>
+<string key="tapeMeasure" value="fita métrica"/>
+<string key="voltage" value="potencial elétrico"/>
+</SimStrings>

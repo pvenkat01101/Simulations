@@ -1,0 +1,15 @@
+#color-vision-strings_de.properties created Mon Mar 09 13:49:05 CET 2015 using: color-vision 1.04.00 (52633), translation-utility 2.17.00 (74235) Dez 17, 2014
+#Mon Mar 09 13:49:05 CET 2015
+beamType.title=Licht anzeigen als
+intensitySlider.wiggleMe.text=Bewege einen Schieber\!
+bulbType.monochromatic=Einfarbig
+filterSlider.label=Filterfarbe
+RgbBulbsModule.title=RGB-Lichtquellen
+filterSlider.wiggleMe.text=Bewege den Schieber\!
+bulbType.white=Wei\u00DF
+color-vision.name=Farbwahrnehmung
+beamType.photons=Photonen
+bulbSlider.label=Lichtfarbe
+bulbType.title=Lichtfarbe
+SingleBulbModule.title=Lichtquelle und Filter
+beamType.solid=Lichtkegel

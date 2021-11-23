@@ -1,0 +1,9 @@
+Jama/util/Maths.class
+Jama/LUDecomposition.class
+Jama/QRDecomposition.class
+Jama/EigenvalueDecomposition.class
+Jama/examples/MagicSquareExample.class
+Jama/SingularValueDecomposition.class
+Jama/CholeskyDecomposition.class
+Jama/test/TestMatrix.class
+Jama/Matrix.class

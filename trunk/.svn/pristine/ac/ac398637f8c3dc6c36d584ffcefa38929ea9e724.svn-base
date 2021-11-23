@@ -1,0 +1,24 @@
+#balancing-chemical-equations-strings_pl.properties created Sat May 04 19:38:47 CEST 2013 using: balancing-chemical-equations 1.01.00 (66652), translation-utility 2.14.00 (69024) pa\u017A 9, 2012
+#Sat May 04 19:38:47 CEST 2013
+none=bez
+hideMolecules=ukryj cz\u0105steczki
+balanced=zbilansowane
+introduction=wst\u0119p
+moleculesAreHidden=cz\u0105steczki s\u0105 ukryte
+separateWater=rozbij wod\u0119
+balancingGame=gra w bilansowanie
+hideWhy=ukryj dlaczego
+showAnswer=poka\u017C odpowied\u017A
+equation0of1=r\u00F3wnanie {0} z {1}
+tryAgain=spr\u00F3buj ponownie
+notBalanced=nie zbilansowane
+balancing-chemical-equations.name=Bilansowanie R\u00F3wna\u0144 Chemicznych
+combustMethane=spal metan
+next=nast\u0119pna
+balanceScales=waga r\u00F3wnowagi
+translation.credits=Andrzej Batorski
+check=sprawd\u017A
+barCharts=wykresy s\u0142upkowe
+makeAmmonia=zr\u00F3b amoniak
+showWhy=poka\u017C dlaczego
+notSimplified=nie uproszczone

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2002-2013, University of Colorado -->
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>edu.colorado.phet.common.phetcommon</groupId>
+    <artifactId>phetcommon</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+<!--        <dependency>-->
+<!--            <groupId>junit</groupId>-->
+<!--            <artifactId>junit</artifactId>-->
+<!--            <version>4.13.2</version>-->
+<!--            <scope>test</scope>-->
+<!--        </dependency>-->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>3.8.1</version>
+            <scope>system</scope>
+            <!--            <systemPath>${project.basedir}/simulations-java/contrib/javaws/jnlp.jar</systemPath>-->
+            <systemPath>${pom.basedir}/../../contrib/junit/junit.jar</systemPath>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/javax.jnlp/jnlp -->
+<!--        <dependency>-->
+<!--            <groupId>javax.jnlp</groupId>-->
+<!--            <artifactId>jnlp</artifactId>-->
+<!--            <version>1.5.0</version>-->
+<!--            <type>pom</type>-->
+<!--        </dependency>-->
+<!--        &lt;!&ndash; https://mvnrepository.com/artifact/javax.jnlp/jnlp-api &ndash;&gt;-->
+<!--        <dependency>-->
+<!--            <groupId>javax.jnlp</groupId>-->
+<!--            <artifactId>jnlp-api</artifactId>-->
+<!--            <version>1.2.2</version>-->
+<!--            <scope>system</scope>-->
+<!--        </dependency>-->
+        <dependency>
+            <groupId>javax.jnlp</groupId>
+            <artifactId>jnlp</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+<!--            <systemPath>${project.basedir}/simulations-java/contrib/javaws/jnlp.jar</systemPath>-->
+       <systemPath>${pom.basedir}/../../contrib/javaws/jnlp.jar</systemPath>
+        </dependency>
+        <dependency>
+            <groupId>com.thinktankmaths.logging</groupId>
+            <artifactId>think-tank-maths</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.mongodb/mongo-java-driver -->
+        <dependency>
+            <groupId>org.mongodb</groupId>
+            <artifactId>mongo-java-driver</artifactId>
+            <version>2.7.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.20</version>
+            <scope>provided</scope>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.functionaljava/functionaljava -->
+        <dependency>
+            <groupId>org.functionaljava</groupId>
+            <artifactId>functionaljava</artifactId>
+            <version>4.7</version>
+        </dependency>
+
+    </dependencies>
+</project>

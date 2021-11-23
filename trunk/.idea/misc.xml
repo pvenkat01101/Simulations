@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/simulations-java/contrib/piccolo2d/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/contrib/think-tank-maths/think-tank-maths.pom" />
+        <option value="$PROJECT_DIR$/simulations-java/common/phetcommon/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/piccolo-phet/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/contrib/think-tank-maths/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/phetgraphics/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/charts/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/chemistry/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/collision/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/mechanics/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/controls/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/games/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/jama-phet/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/contrib/Jama/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/jfreechart-phet/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/contrib/jfreechart/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/common/jme-phet/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/contrib/apple/pom.xml" />
+        <option value="$PROJECT_DIR$/simulations-java/simulations/acid-base-solutions/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,43 @@
+# 2.05.02 (74108) Jul 23, 2014
+7/23/14 Minor Tweeks.
+# 2.05.01 (74106) Jul 23, 2014
+7/23/14 Several minor bug fixes.
+# 2.05.00 (74083) Jul 8, 2014
+7/8/14 Fixed bug in flip magnet response.
+# 2.04.00 (74004) May 8, 2014
+5/8/14 > Minor graphic changes.
+# 2.03.03 (73989) May 2, 2014
+5/2/14 Trying to fix sharing violation.
+# 2.03.02 (73987) May 2, 2014
+5/2/14 Added terminals to voltmeters. 
+# 2.03.01 (73977) Apr 25, 2014
+4/25/14 Changed colors of wires.
+# 2.03.00 (73973) Apr 24, 2014
+4/24/14 Fixed minor internationalization issue.
+# 2.03.02 (73971) Apr 24, 2014
+# 2.02.01 (73969) Apr 24, 2014
+4/24/14 Minor bug fix.
+# 2.03.00 (73965) Apr 24, 2014
+# 2.02.01 (73964) Apr 24, 2014
+# 2.03.00 (73962) Apr 24, 2014
+4/24/14 Corrected wiring graphics between voltmeter and bulb.
+# 2.02.02 (73961) Apr 24, 2014
+4/24/14 Tweeked wiring graphics.
+# 2.02.01 (73958) Apr 24, 2014
+4/24/14 Fixed wiring graphics. 
+# 2.02.00 (52648) Jun 5, 2011
+6/5/11 > added new translation credits features
+# 2.01.01 (52617) Jun 2, 2011
+# 2.01.00 (37303) Dec 10, 2009
+12/10/09 > Common interface fixes, improvements, and Khmer support.
+# 2.00.00 (30671) Apr 21, 2009
+4/21/09 Batch deploy as part of IOM milestone with revision 30670
+# 1.00.05 (29980) Mar 27, 2009
+3/27/09 Added Romanian Sim Strings
+# 1.00.04 (29927) Mar 26, 2009
+3/26/09 Added Romanian strings
+# 1.00.03 (29629) Mar 22, 2009
+3/22/09 Batch deploy for Alpha Simulation Tests 2, svn 29628
+# 1.00.02 (28844) Feb 19, 2009
+Batch deploy for alpha Simulation Tests, svn 28835
+# 1.00.01 (28413) Feb 12, 2009

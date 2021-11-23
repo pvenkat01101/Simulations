@@ -1,0 +1,34 @@
+#molarity-strings_zh_TW.properties created Fri Dec 05 23:16:29 CST 2014 using: molarity 1.02.00 (63629), translation-utility 2.16.00 (74075) \u516D\u6708 14, 2014
+#Fri Dec 05 23:16:29 CST 2014
+drinkMix=\u6DF7\u5408\u98F2\u6599
+none=\u7121
+solutionConcentration=<html><center>\u6EB6\u6DB2\u7684\u6FC3\u5EA6</html>
+soluteAmount=<html><center>\u6EB6\u8CEA\u7684\u91CF</html>
+potassiumPermanganate=\u904E\u9333\u9178\u9240
+pattern.parentheses.0text=({0})
+cobaltIINitrate=\u785D\u9178\u9237(II)
+units.moles=mol(\u83AB\u8033)
+goldIIIChloride=\u4E09\u6C2F\u5316\u91D1
+full=\u6EFF
+high=\u9AD8
+moles=\u83AB\u8033
+zero=\u96F6
+lots=\u591A
+liters=\u516C\u5347
+pattern.0label={0}\:
+potassiumChromate=\u927B\u9178\u9240
+pattern.0value.1units={0} {1}
+solute=\u6EB6\u8CEA
+potassiumDichromate=\u4E8C\u927B\u9178\u9240
+copperSulfate=\u786B\u9178\u9285
+solutionVolume=<html><center>\u6EB6\u6DB2\u7684\u9AD4\u7A4D</html>
+translation.credits=\u6C5F\u6613\u539F (I-Yuan Chiang) 2012\n\u90ED\u73EE\u7FBD 2014
+showValues=\u986F\u793A\u6578\u503C
+saturated=\u5DF2\u98FD\u548C\!
+molarity=\u83AB\u8033\u6FC3\u5EA6 
+molarity.name=\u83AB\u8033\u6FC3\u5EA6 
+units.liters=L(\u516C\u5347)
+cobaltChloride=\u6C2F\u5316\u9237
+nickelIIChloride=\u6C2F\u5316\u93B3
+units.molarity=M(\u514B\u5206\u5B50\u6FC3\u5EA6)
+low=\u4F4E

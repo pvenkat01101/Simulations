@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <resourceExtensions>
+      <entry name=".+\.(properties|xml|html|dtd|tld)" />
+      <entry name=".+\.(gif|png|jpeg|jpg)" />
+    </resourceExtensions>
+    <wildcardResourcePatterns>
+      <entry name="?*.properties" />
+      <entry name="?*.xml" />
+      <entry name="?*.gif" />
+      <entry name="?*.png" />
+      <entry name="?*.jpeg" />
+      <entry name="?*.jpg" />
+      <entry name="?*.html" />
+      <entry name="?*.dtd" />
+      <entry name="?*.tld" />
+      <entry name="?*.ftl" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chemistry" />
+        <module name="charts" />
+        <module name="jfreechart-phet" />
+        <module name="controls" />
+        <module name="piccolo-phet" />
+        <module name="phetcommon" />
+        <module name="acid-base-solutions" />
+        <module name="Jama" />
+        <module name="piccolo2d-core" />
+        <module name="mechanics" />
+        <module name="jama-phet" />
+        <module name="jfreechart" />
+        <module name="phetgraphics" />
+        <module name="collision" />
+        <module name="apple" />
+        <module name="piccolo2d-examples" />
+        <module name="piccolo2d-extras" />
+        <module name="games" />
+        <module name="jme-phet" />
+        <module name="think-tank-maths" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="acid-base-solutions" target="8" />
+      <module name="apple" target="8" />
+      <module name="charts" target="8" />
+      <module name="chemistry" target="8" />
+      <module name="collision" target="8" />
+      <module name="controls" target="8" />
+      <module name="games" target="8" />
+      <module name="Jama" target="8" />
+      <module name="jama-phet" target="8" />
+      <module name="jfreechart" target="8" />
+      <module name="jfreechart-phet" target="8" />
+      <module name="jme-phet" target="8" />
+      <module name="mechanics" target="8" />
+      <module name="phetcommon" target="8" />
+      <module name="phetgraphics" target="8" />
+      <module name="piccolo-phet" target="8" />
+      <module name="piccolo2d" target="1.5" />
+      <module name="piccolo2d-core" target="1.8" />
+      <module name="piccolo2d-examples" target="1.8" />
+      <module name="piccolo2d-extras" target="1.8" />
+      <module name="piccolo2d-parent" target="1.5" />
+      <module name="think-tank-maths" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="MAXIMUM_HEAP_SIZE" value="512" />
+  </component>
+</project>

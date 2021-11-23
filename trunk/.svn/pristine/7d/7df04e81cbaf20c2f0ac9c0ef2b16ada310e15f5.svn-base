@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--my-solar-system-strings_eu.xml created Sun Jun 30 19:21:28 CEST 2019 using: my-solar-system 2.04.00 (72347), translation-utility 2.18.00 (74383) may 28, 2015--><SimStrings>
+<string key="slingshot" value="Jaurtitzailea"/>
+<string key="binaryStarPlanet" value="Izar bitarra, planeta"/>
+<string key="sunAndPlanet" value="Eguzkia eta planeta"/>
+<string key="body4" value="4 gorputza"/>
+<string key="numberOfBodies" value="gorputz \nkopurua"/>
+<string key="body3" value="3 gorputza"/>
+<string key="body2" value="2 gorputza"/>
+<string key="body1" value="1 gorputza"/>
+<string key="velocity" value="abiadura"/>
+<string key="doubleDouble" value="Bikoitza bikoitza"/>
+<string key="xVel" value="x "/>
+<string key="translation.credits" value="Inma Zufiria"/>
+<string key="massEquals" value="masa ="/>
+<string key="yEquals" value="y ="/>
+<string key="hyperbolics" value="Hiperbolikoak"/>
+<string key="xEquals" value="x ="/>
+<string key="help9" value="Copyright Project PhET eta Colorado-ko unibertsitatea Boulder-en."/>
+<string key="help8" value="Sistema oszilakorretan, Runge-Kutta-renak ez bezala, Verlet-en algoritmoak energia kontserbatu egiten du, orbita egonkorrak sortuz. Denbora neurketa finkoko edozein algoritmok  bezala, gorputzak gehiegi hurbiltzen direnean eta azelerazioak handiegiak direnean, Verlet-enak  emaitza ez fisikoak lortzen ditu. Hori gerta ez dadin, hurbilegi dauden gorputzak fusionatu egiten dira momentu-kontserbazio talka batean."/>
+<string key="help6" value="Ibilbideak integratzeko, simulazio honek Verlet algoritmoa erabiltzen du, abiaduraren denbora-tarte finkoarekin."/>
+<string key="stop" value="Gelditu"/>
+<string key="help5" value="&quot;Sistema zentratua&quot; hautatzean, sistemaren masa-zentroa gelditu egiten da."/>
+<string key="help4" value="Uneko posizio eta abiadura jakiteko, sakatu &quot;Gelditu&quot; eta ipini sagu-erakuslea gorputzaren gainean."/>
+<string key="help3" value="Erabili milaka gutxiko masa-balioak, emaitza arraroak ez lortzeko."/>
+<string key="help2" value="Distantziak, masak eta denborak unitate arbitrarioetan daude. Asma itzazu zeureak!"/>
+<string key="help1" value="Sortu zeure eguzki-sistema, gorputzak eta v ikurra (v = abiadura) arrastatuz, \nedo, hasierako balio-taulan datuak sartuz."/>
+<string key="help0" value="Nire eguzki-sitemaren orbita-simulagailua"/>
+<string key="doubleSlingshot" value="Jaurtitzaile bikoitza"/>
+<string key="vYEquals" value="v y ="/>
+<string key="systemCentered" value="Sistema zentratua"/>
+<string key="vXEquals" value="v x ="/>
+<string key="start" value="Hasi"/>
+<string key="showTraces" value="Erakutsi arrastoak"/>
+<string key="back" value="atzera"/>
+<string key="xPos" value="x"/>
+<string key="help" value="Laguntza"/>
+<string key="accurate" value="zehatza"/>
+<string key="tapeMeasure" value="Neurketa-zinta"/>
+<string key="showGrid" value="Lauki-sarea"/>
+<string key="selectPreset" value="Hautatu sistema"/>
+<string key="yVel" value="y"/>
+<string key="timeEquals" value="denbora ="/>
+<string key="ellipses" value="Elipseak"/>
+<string key="trojanAsteroids" value="Asteroide troiarrak"/>
+<string key="fourStarBallet" value="Lau izarreko balleta"/>
+<string key="position" value="posizioa"/>
+<string key="reset" value="Hasieratu"/>
+<string key="mass" value="masa"/>
+<string key="fast" value="lasterra"/>
+<string key="simTitle" value="Nire eguzki-sistema"/>
+<string key="sunPlanetMoon" value="Eguzkia, planeta, ilargia"/>
+<string key="initialSettings" value="Hasierako ezarpenak:"/>
+<string key="yPos" value="y"/>
+<string key="sunPlanetComet" value="Eguzkia, planeta, kometa"/>
+</SimStrings>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--projectile-motion-strings_sw.xml created Thu Apr 14 13:25:08 EAT 2016 using: projectile-motion 2.03.00 (52266), translation-utility 2.18.00 (74383) May 28, 2015--><SimStrings>
+<string key="dragLabel" value="Alama buruta"/>
+<string key="userChoice" value="Chaguo la mtumiaji"/>
+<string key="altitudeLabel" value="Mwinuko"/>
+<string key="football" value="Mpira wa miguu"/>
+<string key="golfball" value="Mpira wa gofu"/>
+<string key="simTitle" value="Mwendo mchomozo"/>
+<string key="collision" value="Mgongano!"/>
+<string key="adultHuman" value="Mtu mzima"/>
+<string key="time" value="Muda(s)"/>
+<string key="buick" value="Kitu kizito"/>
+<string key="diameter" value="Kipenyo(m)"/>
+<string key="initSpeed" value="Kasi mwanzo"/>
+<string key="bowlingball" value="Tufe"/>
+<string key="piano" value="Kinanda"/>
+<string key="sound" value="Sauti"/>
+<string key="range" value="Umbali mtupo"/>
+<string key="mass" value="Tungamo"/>
+<string key="height" value="Kimo(m)"/>
+<string key="pumpkin" value="Boga"/>
+<string key="score" value="Pointi"/>
+<string key="angle" value="Pembe(nyuzi)"/>
+<string key="baseball" value="Mpira wa gongo"/>
+<string key="airResistance" value="Hewa kinzani"/>
+<string key="fire" value="Rusha"/>
+<string key="erase" value="Anza upya"/>
+<string key="tankshell" value="Kombora"/>
+</SimStrings>

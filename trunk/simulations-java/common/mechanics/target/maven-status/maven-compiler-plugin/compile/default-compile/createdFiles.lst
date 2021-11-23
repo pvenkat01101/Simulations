@@ -1,0 +1,4 @@
+edu/colorado/phet/common/mechanics/PhysicalVector.class
+edu/colorado/phet/common/mechanics/Vector3D.class
+edu/colorado/phet/common/mechanics/Body.class
+edu/colorado/phet/common/mechanics/DefaultBody.class

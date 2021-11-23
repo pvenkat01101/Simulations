@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--wave-on-a-string-strings_pl.xml created Sat May 04 22:26:37 CEST 2013 using: wave-on-a-string 2.04.00 (65974), translation-utility 2.14.00 (69024) paź 9, 2012--><SimStrings>
+<string key="manual" value="Ręcznie"/>
+<string key="resetTimer" value="zresetuj"/>
+<string key="damping" value="Tłumienie"/>
+<string key="simTitle" value="Fale na linie"/>
+<string key="showHelp" value="Pokaż pomoc"/>
+<string key="pulse" value="Impuls"/>
+<string key="amplitude" value="Amplituda"/>
+<string key="pausePlay" value="pauza/uruchom"/>
+<string key="step" value="krok"/>
+<string key="tension" value="naprężenie"/>
+<string key="startTimer" value="start/pauza"/>
+<string key="pulseWidth" value="Szerokośc impulsu"/>
+<string key="rulerHelp" value="przesuwalna linijka"/>
+<string key="high" value="duże"/>
+<string key="wiggleWrench" value="Porusz kluczem"/>
+<string key="timer" value="Stoper"/>
+<string key="oscillate" value="Oscylator"/>
+<string key="rulers" value="Linijki"/>
+<string key="frequency" value="Częstotliwość"/>
+<string key="wrenchHelp" value="Porusz klucz"/>
+<string key="fixedEnd" value="koniec nieruchomy"/>
+<string key="refLineHelp" value="przesuwalne linie odniesienia"/>
+<string key="hideHelp" value="Ukryj pomoc"/>
+<string key="timerHelp" value="przesuwalny stoper"/>
+<string key="looseEnd" value="koniec swobodny"/>
+<string key="noEnd" value="brak końca"/>
+<string key="paused" value="Zatrzymane"/>
+<string key="reset" value="Zresetuj"/>
+<string key="pulse2" value="Impuls"/>
+<string key="low" value="małe"/>
+</SimStrings>

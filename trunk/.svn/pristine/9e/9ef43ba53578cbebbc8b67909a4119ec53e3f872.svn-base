@@ -1,0 +1,29 @@
+#forces-and-motion-basics-strings_fr.properties created Mon Feb 23 13:01:49 EST 2015 using: forces-and-motion-basics 1.02.00 (72090), translation-utility 2.17.00 (74235) déc. 16, 2014
+#Mon Feb 23 13:01:49 EST 2015
+none=Nuls
+force=Force
+values=Valeurs
+frictionTitle=Frottements
+redWins=Les rouges gagnent \!
+frictionForce=Force de frottement
+pause=Pause
+friction=Mouvement avec frottements
+accelerationLab=Laboratoire d'acc\u00E9l\u00E9ration
+forces-and-motion-basics.name=Les forces et le mouvement \: pour d\u00E9buter.
+appliedForce=Force appliqu\u00E9e
+leftForce=Force \u00E0 gauche
+rightForce=Force \u00E0 droite
+acceleration=Acc\u00E9l\u00E9ration
+sound=Son
+lots=Forts
+forces=Forces
+tugOfWar=Tir \u00E0 la corde
+motion=Mouvement sans frottement
+sumOfForcesEqualsZero=La somme des forces est nulle.
+go=Tirez \!
+blueWins=Les bleus gagnent \!
+sumOfForces=Somme des forces
+speed=Vitesse
+return=Retour
+translation.credits=didier chartier, professeur de physique\nlyc\u00E9e jean moulin, gironde, 2012
+masses=Masses

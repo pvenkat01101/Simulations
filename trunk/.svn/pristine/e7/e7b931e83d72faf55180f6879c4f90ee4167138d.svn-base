@@ -1,0 +1,10 @@
+#signal-circuit-strings_cs.properties created Mon Mar 03 11:08:55 CET 2014 using: signal-circuit 1.05.00 (52273), translation-utility 2.14.00 (69024) X 9, 2012
+#Mon Mar 03 11:08:55 CET 2014
+Signal.SwitchSlider=vyp\u00EDna\u010D
+Signal.ShowSignalArrowCheckBox=zobrazit sm\u011Br sign\u00E1lu
+Signal.ShowInsideSwitchCheckBox=zobrazit vnit\u0159ek vyp\u00EDna\u010De
+signal-circuit.name=obvod sign\u00E1lu
+Signal.PaintElectronCheckBox=ozna\u010Dit elektron
+Signal.ComparisonToolsBorder=porovn\u00E1vac\u00ED n\u00E1stroje
+translation.credits=Nikola Ratajov\u00E1
+Signal.ShowElectronsCheckBox=zobrazit elektrony

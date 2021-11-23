@@ -1,0 +1,23 @@
+#balancing-chemical-equations-strings_da.properties created Sat Mar 28 13:02:09 CET 2015 using: balancing-chemical-equations 1.01.00 (66652), translation-utility 2.17.00 (74235) dec. 17, 2014
+#Sat Mar 28 13:02:09 CET 2015
+none=Ingen
+hideMolecules=Fjern molekyler
+balanced=afstemt
+introduction=Introduktion
+moleculesAreHidden=molekyler er gemte
+separateWater=Adskild vand i grundstoffer
+balancingGame=et spill om afstemningl
+hideWhy=g\u00E5 tilbage
+showAnswer=Vis svar
+equation0of1=reaktion  {0} af {1}\:
+tryAgain=Pr\u00F8v igen
+notBalanced=ikke afstemt
+balancing-chemical-equations.name=Afstemning af kemiske ligninger
+combustMethane=Forbr\u00E6nd metan
+next=N\u00E6ste
+balanceScales=se om antal atomer af hver slags er de samme p\u00E5 begge sider
+check=Tjek
+barCharts=S\u00F8jlediagrammer, der viser aantal atomer p\u00E5 begge sider af reaktionspilen
+makeAmmonia=Fremstil ammoniak
+showWhy=Vis hvorfor
+notSimplified=ikke forenklede

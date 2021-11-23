@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--blackbody-spectrum-strings_nl.xml created Tue Sep 29 20:57:39 CEST 2015 using: blackbody-spectrum 2.02.00 (52705), translation-utility 2.18.00 (74383) mei 28, 2015--><SimStrings>
+<string key="r" value="R"/>
+<string key="zoomIn" value="zoom \n in"/>
+<string key="intensity" value="intensiteit"/>
+<string key="simTitle" value="zwarte straler"/>
+<string key="zoomOut" value="zoom \n uit"/>
+<string key="clear" value="wis"/>
+<string key="g" value="G"/>
+<string key="sun" value="zon"/>
+<string key="tempInK" value="T (K)"/>
+<string key="save" value="opslaan"/>
+<string key="showRuler" value="meetlat"/>
+<string key="wavelength" value="golflengte"/>
+<string key="b" value="B"/>
+<string key="oven" value="oven"/>
+<string key="earth" value="aarde"/>
+<string key="lightBulb" value="gloeilamp"/>
+</SimStrings>

@@ -1,0 +1,28 @@
+#line-graphing-strings_bs.properties created Mon Jul 06 12:03:28 CEST 2020 using: line-graphing 1.00.00 (72068), translation-utility 2.18.00 (74383) May 28, 2015
+#Mon Jul 06 12:03:28 CEST 2020
+putPointsOnLine=Stavite ta\u010Dke na pravu
+tab.slopeIntercept=Nagib-Odsje\u010Dak
+hideLines=sakrij pravu
+aCorrectEquation=Ta\u010Dna jedna\u010Dina je\:
+undefined=nedefinisan
+graphing-lines.name=Crtanje pravih
+graphTheLine=Nacrtaj pravu
+eraseLines=Obri\u0161i linije
+lineToGraph=Prava na grafiku je\:
+translation.credits=<html> Mr.sc. Dino \u0106orovi\u0107, dipl.fizi\u010Dar <br> dino_corovic@hotmail.com </html>
+yourLine=Va\u0161a prava\:
+symbol.intercept=n
+tab.lineGame=Igra pravama
+notALine=... nije prava\!
+saveLine=Sa\u010Duvaj pravu
+slope=Nagib
+slopeUndefined={0}\={1} (nedefinisan nagib)
+tab.slope=Nagib
+yourEquation=Va\u0161a jedna\u010Dina\:
+setTheYIntercept=Postavi odsje\u010Dak na Y-osi
+symbol.slope=k
+setThePoint=Postavi ta\u010Dku
+makeTheEquation=Napravi jedna\u010Dinu
+setTheSlope=Postavi nagib
+slopeIs={0} \= 
+tab.pointSlope=Ta\u010Dka-Nagib

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--plinko-probability-strings_fa.xml created Wed Jul 17 13:43:29 IRDT 2013 using: plinko-probability 2.02.00 (53818), translation-utility 2.14.00 (69024) Oct 9, 2012-->
+<SimStrings>
+<string key="none" value="هیچ کدام"/>
+<string key="number" value="تعداد"/>
+<string key="start" value="شروع"/>
+<string key="continuous" value="مداوم"/>
+<string key="simTitle" value="احتمال بازش پلینکو"/>
+<string key="fraction" value="کسر"/>
+<string key="NEquals" value="N="/>
+<string key="rows" value="ردیف"/>
+<string key="sEquals" value="s ="/>
+<string key="sound" value="صدا"/>
+<string key="oneBall" value="1 توپ"/>
+<string key="path" value="راه"/>
+<string key="histogramDisplay" value="هیستوگرام \ ndisplay"/>
+<string key="p" value="p"/>
+<string key="stop" value="توقف"/>
+<string key="ball" value="توپ"/>
+<string key="help" value="راهنما"/>
+<string key="translation.credits" value="&lt;html&gt;خليلي بروجني&lt;br&gt; وب سايت www.avang.org &lt;br&gt;&lt;/html&gt;"/>
+<string key="reset" value="بازنشانی"/>
+<string key="show" value="نشان بده"/>
+<string key="autoScale" value="مقیاس اتوماتیک"/>
+</SimStrings>

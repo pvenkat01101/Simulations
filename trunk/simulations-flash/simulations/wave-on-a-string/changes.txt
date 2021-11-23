@@ -1,0 +1,25 @@
+# 2.04.05 (73240) Jun 14, 2013
+6/14/13 Changed frequency slider to read in Hz
+# 2.04.04 (73063) May 23, 2013
+5/23/13 String change: Frequency(Hz)
+# 2.04.03 (73061) May 23, 2013
+5/23/13 Frequency output now in Hz.
+# 2.04.02 (73020) May 15, 2013
+# 2.04.01 (73018) May 14, 2013
+5/14/13 Added string segments connecting beads on string.
+# 2.04.00 (65974) Jul 18, 2012
+7/18/12 Minor update to text on control: Reset changed to Restart.
+# 2.03.01 (65973) Jul 18, 2012
+7/18/12 Altered text on control from Restart to Reset
+# 2.03.00 (51205) Apr 26, 2011
+4/26/11 > added new translation credits features
+# 2.02.00 (51204) Apr 26, 2011
+# 2.01.01 (51024) Apr 21, 2011
+# 2.01.00 (37327) Dec 11, 2009
+12/11/09 > Common interface fixes, improvements, and Khmer support.
+# 2.00.00 (30671) Apr 21, 2009
+4/21/09 Batch deploy as part of IOM milestone with revision 30670
+# 1.00.02 (29697) Mar 22, 2009
+3/22/09 Batch deploy for Alpha Simulation Tests 2, svn 29628
+# 1.00.01 (28860) Feb 19, 2009
+Batch deploy for alpha Simulation Tests, svn 28835

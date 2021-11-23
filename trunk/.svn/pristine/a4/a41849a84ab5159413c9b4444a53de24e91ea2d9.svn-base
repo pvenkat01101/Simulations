@@ -1,0 +1,21 @@
+#motion-2d-strings_eu.properties created Tue Jun 25 12:24:34 CEST 2019 using: motion-2d 1.07.00 (52263), translation-utility 2.18.00 (74383) may 28, 2015
+#Tue Jun 25 12:24:34 CEST 2019
+MotionPanel.SimpleHarmonicRadioButton=Harmoniko sinplea
+controls.time-scale=Denbora-eskala
+Motion2DPanel.MoreControlsButton=Kontrol gehiago
+VAScrolls.VelocityScaleLabel=Abiadura-eskala\:
+Motion2DPanel.ShowVelocityRadioButton=Erakutsi bat
+VAScrolls.AccelerationScaleLabel=Azelerazio-eskala\:
+Motion2DPanel.ShowBothRadioButton=Erakutsi biak
+MotionPanel.LinearAccIRadioButton=Azel. lineala I
+Motion2DPanel.VelocityAccelerationLabel=Abiadura ala azelerazioa?
+VAScrolls.SliderControlTitle=Kontrol-teklak
+VAScrolls.ScaleSuffix=X
+motion-2d.name=Mugimendua planoan
+MotionPanel.LinearAccIIRadioButton=Azel. lineala II
+MotionPanel.StopRadioButton=Gelditu
+MotionPanel.CircularRadioButton=Zirkularra
+Motion2DPanel.ShowNeitherRadioButton=Ez erakutsi ezer
+Motion2DPanel.ShowAccelerationRadioButton=Erakutsi bestea
+translation.credits=Inma Zufiria
+Motion2DPanel.WiggleMeText=Arrasta nazazu

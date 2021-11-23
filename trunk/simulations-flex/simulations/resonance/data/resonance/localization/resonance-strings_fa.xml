@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--resonance-strings_fa.xml created Mon Jul 15 11:12:10 IRDT 2013 using: resonance 1.01.00 (54775), translation-utility 2.14.00 (69024) Oct 9, 2012-->
+<SimStrings>
+<string key="simSpeed" value="سرعت شبيه سازي"/>
+<string key="sameFrequency" value="بسامد یکسان"/>
+<string key="sameSpring" value="  یکسان فنر"/>
+<string key="slow" value="آهسته"/>
+<string key="mixedMAndK" value="m و k "/>
+<string key="numberOfResonators" value="تعداد تشديدگرها"/>
+<string key="kg" value="kg"/>
+<string key="pause" value="مکث"/>
+<string key="amplitude" value="دامنه"/>
+<string key="frequencyEqualsXHz" value="بسامد = {0} Hz"/>
+<string key="sloMo" value="حرکت آرام"/>
+<string key="step" value="گام"/>
+<string key="cm" value="cm"/>
+<string key="driver" value="کليدها"/>
+<string key="on" value="روشن"/>
+<string key="ruler" value="خط کش"/>
+<string key="resonance.simTitle" value="تشديد"/>
+<string key="NperMperS" value="N/(m/s)"/>
+<string key="springConstant" value="ثابت فنر"/>
+<string key="frequency" value="بسامد"/>
+<string key="resetAll" value="همه را به حالت اول برگردان"/>
+<string key="mass" value="جرم"/>
+<string key="sameMass" value="یکسان جرم"/>
+<string key="resonator" value="تشديدگر"/>
+<string key="translation.credits" value="&lt;html&gt;خلیلی بروجنی&lt;br&gt;khalily@gmail.com&lt;br&gt;www.avang.org&lt;/html&gt;"/>
+<string key="hz" value="Hz"/>
+<string key="NperM" value="N/m"/>
+<string key="gravityColon" value=":گرانش"/>
+<string key="play" value="شروع کن"/>
+<string key="paused" value="متوقف شده"/>
+<string key="off" value="خاموش"/>
+<string key="dampingConstant" value="ثابت ميرايي"/>
+<string key="normal" value="طبيعي"/>
+<string key="selectPreset" value="انتخاب کنيد"/>
+</SimStrings>

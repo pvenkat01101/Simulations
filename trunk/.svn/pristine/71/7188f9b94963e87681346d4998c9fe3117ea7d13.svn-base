@@ -1,0 +1,36 @@
+#bending-light-strings_pl.properties created Tue May 07 08:58:42 CEST 2013 using: bending-light 1.03.00 (68629), translation-utility 2.14.00 (69024) pa\u017A 9, 2012
+#Tue May 07 08:58:42 CEST 2013
+objects=obiekt
+custom=w\u0142asny
+toolbox=Narz\u0119dziownik
+mysteryB=zagadka B
+mysteryA=zagadka A
+intensity=nat\u0119\u017Cenie
+time=czas
+prismBreak=za\u0142amanie na pryzmacie
+wave=fala
+laserView=Emisja lasera
+whiteLight=\u015Bwiat\u0142o bia\u0142e
+multipleRays=promienie wielokrotne
+high=wysoki
+moreTools=wi\u0119cej narz\u0119dzi
+showReflections=poka\u017C odbicia
+ray=promie\u0144
+material=materia\u0142
+showProtractor=poka\u017C k\u0105tomierz
+oneColor=jeden kolor
+singleRay=pojedynczy promie\u0144
+showNormal=poka\u017C normaln\u0105
+diamond=diament
+indexOfRefractionColon=wsp\u00F3\u0142czynnik za\u0142amania \u015Bwiat\u0142a (n)\:
+intro=wprowadzenie
+bending-light.name=za\u0142amanie \u015Bwiat\u0142a
+environment=\u015Brodowisko
+reset=skasuj
+nUnknown=Ile wynosi n?
+air=powietrze
+indexOfRefraction=wsp\u00F3\u0142czynnik za\u0142amania \u015Bwiat\u0142a (n)
+water=woda
+prisms=pryzmaty
+glass=szk\u0142o
+low=niski

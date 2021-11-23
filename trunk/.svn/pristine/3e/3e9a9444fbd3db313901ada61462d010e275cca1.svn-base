@@ -1,0 +1,36 @@
+#ph-scale-strings_fr.properties created Tue May 28 07:57:08 CEST 2013 using: ph-scale 1.03.00 (51135), translation-utility 2.14.00 (69024) oct. 9, 2012
+#Tue May 28 07:57:08 CEST 2013
+choice.handSoap=Savon
+radioButton.linearScale=Echelle Lin\u00E9aire
+label.pH=pH\:
+checkBox.dontAskAgain=Ne plus me poser la question.
+choice.milk=Lait
+confirm.changeLiquid=<html>Diff\u00E9rents types de liquide ne peuvent pas \u00EAtre combin\u00E9s.<br>La s\u00E9lection d'un nouveau liquide videra le becher.<br>Est-ce vraiment ce que vous voulez  faire ?</html>
+title.waterComponents=Composition de la solution
+label.acid=acide
+choice.coffee=Caf\u00E9
+units.moles=mol
+ph-scale.name=Echelle de pH
+button.zoomOut=Agrandir (x10)
+choice.blood=Sang
+units.molesPerLiter=mol/L
+choice.batteryAcid=Acide de batterie
+choice.drainCleaner=D\u00E9capant
+checkBox.moleculeCount=Nombre d'entit\u00E9s chimiques
+radioButton.concentration=Concentration ({0})
+label.H2O=H<sub>2</sub>O
+label.base=base
+choice.vomit=Vomi
+choice.spit=Crachat
+choice.water=Eau
+checkBox.H3O_OH_ratio=Rapport {0}/{1}
+choice.beer=Bi\u00E8re
+button.zoomIn=R\u00E9duire (\u00F710)
+choice.custom=Liquide particularis\u00E9
+translation.credits=<html> traduite par Emmanuel KEITH <br/> Professeur de math\u00E9matiques <br/> Coll\u00E8ge Eug\u00E8ne Delacroix, France </html>
+radioButton.numberOfMoles=Nombre de moles ({0})
+label.OH=OH<sup>-</sup>
+choice.soda=Soda
+units.liters=L
+radioButton.logarithmicScale=Echelle logarithmique
+label.H3O=H<sub>3</sub>O<sup>+</sup>

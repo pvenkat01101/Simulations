@@ -1,0 +1,15 @@
+edu/colorado/phet/common/collision/Collision.class
+edu/colorado/phet/common/collision/SphericalBody.class
+edu/colorado/phet/common/collision/ContactDetector.class
+edu/colorado/phet/common/collision/Collidable.class
+edu/colorado/phet/common/collision/CollisionExpert.class
+edu/colorado/phet/common/collision/Wall.class
+edu/colorado/phet/common/collision/SphereSphereCollision.class
+edu/colorado/phet/common/collision/SphereBoxExpert.class
+edu/colorado/phet/common/collision/CollisionUtil.class
+edu/colorado/phet/common/collision/CollidableAdapter.class
+edu/colorado/phet/common/collision/SphereBoxCollision.class
+edu/colorado/phet/common/collision/Box2D.class
+edu/colorado/phet/common/collision/SphereSphereExpert.class
+edu/colorado/phet/common/collision/SphereSphereContactDetector.class
+edu/colorado/phet/common/collision/SolidSphere.class

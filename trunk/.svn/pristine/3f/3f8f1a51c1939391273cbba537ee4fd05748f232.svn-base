@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--projectile-motion-strings_pl.xml created Wed May 08 17:13:26 CEST 2013 using: projectile-motion 2.03.00 (52266), translation-utility 2.14.00 (69024) paź 9, 2012--><SimStrings>
+<string key="dragLabel" value="współczynnik oporu"/>
+<string key="userChoice" value="użytkownik"/>
+<string key="altitudeLabel" value="wysokość (m)"/>
+<string key="football" value="piłka nożna"/>
+<string key="golfball" value="piłka golfowa"/>
+<string key="simTitle" value="Rzuty"/>
+<string key="collision" value="Zderzenie!"/>
+<string key="adultHuman" value="człowiek"/>
+<string key="time" value="czas (s)"/>
+<string key="buick" value="samochód"/>
+<string key="diameter" value="średnica (m)"/>
+<string key="initSpeed" value="V początkowa (m/s)"/>
+<string key="bowlingball" value="piłka do bowlingu"/>
+<string key="piano" value="pianino"/>
+<string key="sound" value="Dźwięk"/>
+<string key="range" value="zasięg (m)"/>
+<string key="mass" value="masa (kg)"/>
+<string key="height" value="wys. (m)"/>
+<string key="pumpkin" value="dynia"/>
+<string key="score" value="Trafiony!"/>
+<string key="angle" value="kąt (stopnie)"/>
+<string key="baseball" value="piłka bejsbolowa"/>
+<string key="airResistance" value="Opór powietrza"/>
+<string key="fire" value="Ognia!"/>
+<string key="erase" value="Wyczyść"/>
+<string key="tankshell" value="pocisk czołgowy"/>
+</SimStrings>

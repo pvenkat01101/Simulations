@@ -1,0 +1,31 @@
+#photoelectric-strings_eu.properties created Sun Jun 30 11:58:42 CEST 2019 using: photoelectric 1.10.00 (72226), translation-utility 2.18.00 (74383) may 28, 2015
+#Sun Jun 30 11:58:42 CEST 2019
+Element.Magnesium=?????
+Menu.PhotonView=Erakutsi fotoiak
+Element.Calcium=Kaltzioa
+Element.Platinum=Platinoa
+Current=Korrontea
+ModuleTitle.PhotoelectricEfect=Efektu fotoelektrikoa
+GraphLabel.Current=Korrontea
+Intensity.message=Izpi-intentsitateak 0 eta 100 arteko portzentaia izan behar du
+GraphTitle.EnergyVsFrequency=<html>Elektroi-energia vs Argi-maiztasuna</html>
+Options.photonsPerSecond=Kontrolatu fotoi-kopurua, intentsitatearen ordez.
+GraphTitle.CurrentVsVoltage=<html>Korronte-intents. vs Bateria-tentsioa</html>
+Voltage=Tentsioa
+photoelectric.name=Efektu fotoelektrikoa
+GraphLabel.Intensity=Argi-intentsitatea
+BeamControl.photonRate=Protoi-kopurua
+BeamControl.intensity=Intentsitatea
+Graphs=Grafikoak
+GraphTitle.CurrentVsIntensity=<html>Korronte-intents. vs Argi-intentsitatea</html>
+Menu.Options=Aukerak
+Element.Sodium=Sodioa
+translation.credits=J.L. Arrieta / Inma Zufiria
+Element.Zinc=Zinka
+Element.Copper=Kobrea
+Target=Helburua
+GraphLabel.Frequency=Maiztasuna (x10^15 Hz)
+units.nm=nm
+Wavelength.message=Uhin-luzerak zenbakia izan behar du, edo zenbakiaren ondoren "nm" izan
+GraphLabel.Energy=Energia (eV)
+ControlPanel.SimpleMode=Erakutsi, bakarrik, energia handiena duten elektroiak

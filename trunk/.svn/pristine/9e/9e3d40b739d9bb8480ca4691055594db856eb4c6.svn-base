@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--wave-on-a-string-strings_fa.xml created Mon Jul 15 11:43:22 IRDT 2013 using: wave-on-a-string 2.04.00 (65974), translation-utility 2.14.00 (69024) Oct 9, 2012-->
+<SimStrings>
+<string key="manual" value="دستی"/>
+<string key="resetTimer" value="به حالت اول برگردان"/>
+<string key="damping" value="میرایی"/>
+<string key="simTitle" value="موج در ریسمان"/>
+<string key="showHelp" value="کمک را نشان بده"/>
+<string key="pulse" value="تپ"/>
+<string key="amplitude" value="دامنه"/>
+<string key="pausePlay" value="مکث/شروع"/>
+<string key="step" value="قدم"/>
+<string key="tension" value="کشش"/>
+<string key="startTimer" value="شروع/مکث"/>
+<string key="pulseWidth" value="پهنای تپ"/>
+<string key="rulerHelp" value="خز کش قایل حرکت"/>
+<string key="high" value="زیاد"/>
+<string key="wiggleWrench" value="!آچار فرانسه"/>
+<string key="timer" value="زمان سنج"/>
+<string key="oscillate" value="نوسان کن"/>
+<string key="rulers" value="خط کش"/>
+<string key="frequency" value="بسامد"/>
+<string key="wrenchHelp" value="آچار قابل حرکت"/>
+<string key="fixedEnd" value="انتهای ثابت"/>
+<string key="hideHelp" value="راهمنا را پنهان کن"/>
+<string key="refLineHelp" value="خط مرجع قایل حرکت"/>
+<string key="translation.credits" value="&lt;html&gt;خلیلی بروجنی&lt;br&gt;khalily@gmail.com&lt;br&gt;www.avang.org&lt;/html&gt;"/>
+<string key="timerHelp" value="زمان سنج قابل حرکت"/>
+<string key="looseEnd" value="انتهای باز"/>
+<string key="noEnd" value="بدون انتها"/>
+<string key="paused" value="وضعیت مکث"/>
+<string key="reset" value="به حالت اول برگردان"/>
+<string key="pulse2" value="تپ"/>
+<string key="low" value="کم"/>
+</SimStrings>
